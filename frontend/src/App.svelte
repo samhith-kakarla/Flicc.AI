@@ -8,7 +8,10 @@
 </script>
 
 <main>
-	<Home></Home>
+	<!-- <Home></Home> -->
+	<Setup></Setup>
+	<!-- <Loading></Loading>
+	<Dashboard></Dashboard> -->
 </main>
 
 <style>

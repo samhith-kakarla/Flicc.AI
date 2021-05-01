@@ -10,8 +10,8 @@
 <main>
 	<!-- <Home></Home> -->
 	<!-- <Setup></Setup> -->
-	<Loading></Loading>
-	<!-- <Dashboard></Dashboard> -->
+	<!-- <Loading></Loading> -->
+	<Dashboard></Dashboard>
 </main>
 
 <style>

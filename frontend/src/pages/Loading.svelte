@@ -4,12 +4,14 @@
     import { Circle2 } from 'svelte-loading-spinners'; 
 
     // STATE
+    export let name; 
 
     // METHODS
+    
 
     onMount(async () => {
 
-    })
+    }); 
 </script>
 
 <main>

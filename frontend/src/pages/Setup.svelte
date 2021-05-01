@@ -3,6 +3,7 @@
     import { onMount } from 'svelte'; 
 
     // STATE
+    export let name; 
     let camera;
     let captureFile; 
     let canvas; 

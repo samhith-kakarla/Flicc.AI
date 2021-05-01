@@ -9,9 +9,9 @@
 
 <main>
 	<!-- <Home></Home> -->
-	<Setup></Setup>
-	<!-- <Loading></Loading>
-	<Dashboard></Dashboard> -->
+	<!-- <Setup></Setup> -->
+	<Loading></Loading>
+	<!-- <Dashboard></Dashboard> -->
 </main>
 
 <style>
